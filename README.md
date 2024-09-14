@@ -1,6 +1,6 @@
-## Hi there 👋
 
-##The operating systems I have experience with:
+
+## The operating systems I have experience with:
 
 ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-22.04-brightgreen?style=for-the-badge&logo=popos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
