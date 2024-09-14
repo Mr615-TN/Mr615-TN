@@ -1,6 +1,13 @@
 ## Hi there 👋
 
 I am currently working through the Odin Project
+
+The operating systems I have experience with are as follows:
+
+![Pop!_OS](https://img.shields.io/badge/Pop!__OS-22.04-brightgreen?style=for-the-badge&logo=popos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-13.0-000000?style=for-the-badge&logo=apple&logoColor=white)
 <!--
 **Mr615-TN/Mr615-TN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
