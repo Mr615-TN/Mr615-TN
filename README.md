@@ -1,13 +1,17 @@
 ## Hi there 👋
 
-I am currently working through the Odin Project
-
-The operating systems I have experience with are as follows:
+##The operating systems I have experience with:
 
 ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-22.04-brightgreen?style=for-the-badge&logo=popos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-13.0-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+## Tools I Use:
+
+![Neovim](https://img.shields.io/badge/Neovim-0.8.0-%2318e4fc?style=for-the-badge&logo=neovim&logoColor=white)
+![Alacritty](https://img.shields.io/badge/Alacritty-0.11.0-%234C566A?style=for-the-badge&logo=alacritty&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-1.83.0-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!--
 **Mr615-TN/Mr615-TN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
