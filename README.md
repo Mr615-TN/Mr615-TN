@@ -13,7 +13,7 @@
 ![Alacritty](https://img.shields.io/badge/Alacritty-0.11.0-%234C566A?style=for-the-badge&logo=alacritty&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.83.0-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-##Languages I Know and/or am Learning:
+## Languages I Know and/or am Learning:
 ![Python]
 ![Java]
 ![C++]
