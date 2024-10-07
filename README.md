@@ -22,7 +22,7 @@
 ![JavaScript]
 ![TypeScript]
 ![CSS]
-![Rust (learning)]
+![Rust learning]
 <!--
 **Mr615-TN/Mr615-TN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
