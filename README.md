@@ -14,15 +14,15 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.83.0-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Languages I Know and/or am Learning:
-![Python]
-![Java]
-![C++]
-![C]
-![Assembly]
-![JavaScript]
-![TypeScript]
-![CSS]
-![Rust learning]
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whit)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 <!--
 **Mr615-TN/Mr615-TN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
