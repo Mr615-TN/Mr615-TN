@@ -12,6 +12,17 @@
 ![Neovim](https://img.shields.io/badge/Neovim-0.8.0-%2318e4fc?style=for-the-badge&logo=neovim&logoColor=white)
 ![Alacritty](https://img.shields.io/badge/Alacritty-0.11.0-%234C566A?style=for-the-badge&logo=alacritty&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.83.0-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+##Languages I Know and/or am Learning:
+![Python]
+![Java]
+![C++]
+![C]
+![Assembly]
+![JavaScript]
+![TypeScript]
+![CSS]
+![Rust (learning)]
 <!--
 **Mr615-TN/Mr615-TN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
