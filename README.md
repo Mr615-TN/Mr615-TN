@@ -23,9 +23,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-<div align="center">
-<img src="https://raw.githubusercontent.com/tan7bot/tan7bot/main/github-metrics.svg" alt="Metrics" width="100%">
-</div>
+
 <!--
 **Mr615-TN/Mr615-TN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
