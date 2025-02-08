@@ -6,11 +6,13 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-13.0-000000?style=for-the-badge&logo=apple&logoColor=white)
+![PikaOS](https://img.shields.io/badge/PikaOS-23.04-FF9F00?style=for-the-badge&logo=debian&logoColor=white)
 
 ## Tools I Use:
 
 ![Neovim](https://img.shields.io/badge/Neovim-0.8.0-%2318e4fc?style=for-the-badge&logo=neovim&logoColor=white)
-![Alacritty](https://img.shields.io/badge/Alacritty-0.11.0-%234C566A?style=for-the-badge&logo=alacritty&logoColor=white)
+![Helix](https://img.shields.io/badge/Helix-23.05-FF4081?style=for-the-badge&logo=helix&logoColor=white)  
+![Ghostty](https://img.shields.io/badge/Ghostty-0.1.0-6E40C9?style=for-the-badge&logo=ghost&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.83.0-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Languages I Know and/or am Learning:
