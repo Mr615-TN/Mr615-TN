@@ -6,16 +6,18 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-13.0-000000?style=for-the-badge&logo=apple&logoColor=white)
-![PikaOS](https://img.shields.io/badge/PikaOS-23.04-FF9F00?style=for-the-badge&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-rolling-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
 
 ## Tools I Use:
 
-![Neovim](https://img.shields.io/badge/Neovim-0.8.0-%2318e4fc?style=for-the-badge&logo=neovim&logoColor=white)
-![Helix](https://img.shields.io/badge/Helix-23.05-FF4081?style=for-the-badge&logo=helix&logoColor=white)  
+![Emacs](https://img.shields.io/badge/Emacs-Editor-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-0.8.0-%2318e4fc?style=for-the-badge&logo=neovim&logoColor=white) 
 ![Ghostty](https://img.shields.io/badge/Ghostty-0.1.0-6E40C9?style=for-the-badge&logo=ghost&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.83.0-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Languages I Know and/or am Learning:
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whit)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
