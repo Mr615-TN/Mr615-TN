@@ -13,9 +13,11 @@
 ## Tools I Use:
 
 ![Emacs](https://img.shields.io/badge/Emacs-Editor-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-0.8.0-%2318e4fc?style=for-the-badge&logo=neovim&logoColor=white) 
+![Neovim](https://img.shields.io/badge/Neovim-0.8.0-%2318e4fc?style=for-the-badge&logo=neovim&logoColor=white)
 ![Ghostty](https://img.shields.io/badge/Ghostty-0.1.0-6E40C9?style=for-the-badge&logo=ghost&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.83.0-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-E37B0D?style=for-the-badge&logo=platformio&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)
 
 ## Languages I Know and/or am Learning:
 
