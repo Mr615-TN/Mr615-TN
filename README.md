@@ -3,7 +3,7 @@
 ## The operating systems I have experience with:
 
 ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-22.04-brightgreen?style=for-the-badge&logo=popos&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-13.0-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-rolling-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
