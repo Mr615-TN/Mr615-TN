@@ -7,6 +7,7 @@
 ![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-13.0-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-rolling-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Debian Sid](https://img.shields.io/badge/Debian-Sid-A80030?style=for-the-badge&logo=debian&logoColor=white)
 
 
 ## Tools I Use:
