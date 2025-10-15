@@ -8,6 +8,7 @@
 ![macOS](https://img.shields.io/badge/macOS-13.0-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-rolling-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian Sid](https://img.shields.io/badge/Debian-Sid-A80030?style=for-the-badge&logo=debian&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-42-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 
 ## Tools I Use:
