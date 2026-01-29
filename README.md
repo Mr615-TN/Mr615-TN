@@ -8,7 +8,7 @@
 ![macOS](https://img.shields.io/badge/macOS-13.0-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-rolling-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian Sid](https://img.shields.io/badge/Debian-Sid-A80030?style=for-the-badge&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-42-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-43-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 
 ## Tools I Use:
@@ -19,6 +19,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.83.0-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-E37B0D?style=for-the-badge&logo=platformio&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## Languages I Know and/or am Learning:
 
