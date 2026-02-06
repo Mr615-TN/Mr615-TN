@@ -1,4 +1,4 @@
-# Hi, I'm [Tanish] 👋
+# Hi, I'm Tanish 👋
 
 ### 🖥️ Tiling WM Enthusiast | Bleeding-Edge Linux User | Developer
 
