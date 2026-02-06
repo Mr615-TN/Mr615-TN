@@ -1,49 +1,62 @@
+# Hi, I'm [Tanish] 👋
 
+### 🖥️ Tiling WM Enthusiast | Bleeding-Edge Linux User | Developer
 
-## The operating systems I have experience with:
+[![Dotfiles](https://img.shields.io/badge/Dotfiles-Sway_%26_Kitty-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr615-TN/dotfiles)
 
+---
+
+## 💡 About Me
+
+I am a developer who enjoys building efficient workflows and experimenting with different operating systems. My primary environment is **Fedora 43** running **Sway**, where I leverage a keyboard-driven workflow for maximum productivity. When I'm not in a terminal, I'm likely on **macOS** handling mobile development or general productivity tasks.
+
+- 🔭 **Current Workflow:** Living in the terminal with **Kitty**, **Neovim**, and **Emacs**.
+- 🦀 **Interests:** Systems programming with Rust, AI/ML, and exploring the Wayland ecosystem.
+- ⚙️ **Hardware:** I switch between a custom Linux desktop/laptop and a Mac.
+
+---
+
+## 🌱 Current Learning Goals
+
+- 🤖 **ROS (Robot Operating System):** Exploring the basics of robotics and middleware.
+- 🧠 **AI Infrastructure:** Deepening my knowledge of **PyTorch** and **NumPy** for data science.
+- ⚛️ **Frontend:** Polishing my **React** and **TypeScript** skills for modern web apps.
+- 🔧 **Low-Level:** Continuing to dive into **Rust** and **Assembly** for systems-level understanding.
+
+---
+
+## 🛠️ Tech Stack
+
+### Operating Systems
+![Fedora](https://img.shields.io/badge/Fedora-43-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-15.0-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-rolling-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Debian Sid](https://img.shields.io/badge/Debian-Sid-A80030?style=for-the-badge&logo=debian&logoColor=white)
 ![Pop!_OS](https://img.shields.io/badge/Pop!__OS-22.04-brightgreen?style=for-the-badge&logo=popos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-13.0-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-rolling-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Debian Sid](https://img.shields.io/badge/Debian-Sid-A80030?style=for-the-badge&logo=debian&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-43-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-
-## Tools I Use:
-
+### Tools & Editors
+![Kitty](https://img.shields.io/badge/Kitty-Terminal-000000?style=for-the-badge&logo=kitty&logoColor=white)
+![Sway](https://img.shields.io/badge/Sway-WM-E33332?style=for-the-badge&logo=sway&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-0.10.0-%2318e4fc?style=for-the-badge&logo=neovim&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-Editor-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-0.8.0-%2318e4fc?style=for-the-badge&logo=neovim&logoColor=white)
-![Ghostty](https://img.shields.io/badge/Ghostty-0.1.0-6E40C9?style=for-the-badge&logo=ghost&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1.83.0-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-E37B0D?style=for-the-badge&logo=platformio&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## Languages I Know and/or am Learning:
-
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=whit)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
-<!--
-**Mr615-TN/Mr615-TN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**📫 How to reach me:**
+- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- ⚡ Fun fact: I spend more time ricing my desktop than I do actual work (sometimes).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
